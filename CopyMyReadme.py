@@ -45,7 +45,7 @@ if not line_exists:
         gitignore.write("\n"+line_to_append)
 
 
-github_username = get_github_username()
+github_username = "Anupa112"
 
 # Prompt the user to input their social media usernames
 print("Leave next fields empty to drop respective social media icon from your README.md file.")
